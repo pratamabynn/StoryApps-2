@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Byy_AppStory</string>
+    <string name="signup" translatable="false">Registrarse</string>
+    <string name="login" translatable="false">Iniciar sesión</string>
+    <string name="message_welcome_page" translatable="false">¡Bienvenido a Yourbynn Story! Si tienes alguna pregunta sobre la aplicación, ¡contacta al administrador!</string>
+    <string name="title_welcome_page" translatable="false">¡Bienvenido!</string>
+    <string name="title_signup_page" translatable="false">Por favor, completa tus datos</string>
+    <string name="email" translatable="false">Correo electrónico</string>
+    <string name="password" translatable="false">Contraseña</string>
+    <string name="message_login_page" translatable="false">Por favor, ingresa tus datos</string>
+    <string name="title_login_page" translatable="false">¡Bienvenido!</string>
+    <string name="name" translatable="false">Nombre</string>
+    <string name="message_main_page" translatable="false">¡Bienvenido!</string>
+    <string name="greeting" translatable="false">Hola %1$s,</string>
+    <string name="logout" translatable="false">Cerrar sesión</string>
+    <string name="name_required" translatable="false">Ingresa tu nombre</string>
+    <string name="input_email" translatable="false">Ingresa tu correo electrónico</string>
+    <string name="invalid_email" translatable="false">Correo electrónico no válido</string>
+    <string name="input_pass" translatable="false">Ingresa tu contraseña</string>
+    <string name="pass_length" translatable="false">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="not_valid_data" translatable="false">Datos no válidos</string>
+    <string name="submit" translatable="false">Enviar</string>
+    <string name="title" translatable="false">Tu título</string>
+    <string name="descriptions" translatable="false">Tus descripciones</string>
+    <string name="detail" translatable="false">Detalles de las historias</string>
+    <string name="camera" translatable="false">Cámara</string>
+    <string name="gallery" translatable="false">Galería</string>
+    <string name="upload" translatable="false">Subir</string>
+    <string name="empty_image_warning" translatable="false">¡Por favor, ingresa una imagen primero!</string>
+    <string name="add_story" translatable="false">Añade tu historia</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="normal_type" translatable="false">Mapas normales</string>
+    <string name="satellite_type" translatable="false">Mapas satelitales</string>
+    <string name="terrain_type" translatable="false">Mapas de terreno</string>
+    <string name="hybrid_type" translatable="false">Mapas híbridos</string>
+    <string name="retry" translatable="false">Reintentar</string>
+    <string name="changeLanguage" translatable="false">Cambiar idioma</string>
+</resources>

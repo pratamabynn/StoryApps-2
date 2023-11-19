@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Byy_AppStory</string>
+    <string name="signup" translatable="false">S\'inscrire</string>
+    <string name="login" translatable="false">Se connecter</string>
+    <string name="message_welcome_page" translatable="false">Bienvenue dans Yourbynn Story. Si vous avez des questions sur l\'application, veuillez contacter l\'administrateur !</string>
+    <string name="title_welcome_page" translatable="false">Bienvenue !</string>
+    <string name="title_signup_page" translatable="false">Veuillez remplir vos données</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="password" translatable="false">Mot de passe</string>
+    <string name="message_login_page" translatable="false">Veuillez saisir vos données</string>
+    <string name="title_login_page" translatable="false">Bienvenue !</string>
+    <string name="name" translatable="false">Nom</string>
+    <string name="message_main_page" translatable="false">Bienvenue !</string>
+    <string name="greeting" translatable="false">Bonjour %1$s,</string>
+    <string name="logout" translatable="false">Déconnexion</string>
+    <string name="name_required" translatable="false">Entrez le nom</string>
+    <string name="input_email" translatable="false">Entrez l\'e-mail</string>
+    <string name="invalid_email" translatable="false">E-mail invalide</string>
+    <string name="input_pass" translatable="false">Entrez le mot de passe</string>
+    <string name="pass_length" translatable="false">Le mot de passe doit comporter au moins 8 caractères</string>
+    <string name="not_valid_data" translatable="false">Données invalides</string>
+    <string name="submit" translatable="false">Soumettre</string>
+    <string name="title" translatable="false">Votre titre</string>
+    <string name="descriptions" translatable="false">Vos descriptions</string>
+    <string name="detail" translatable="false">Détails des histoires</string>
+    <string name="camera" translatable="false">Caméra</string>
+    <string name="gallery" translatable="false">Galerie</string>
+    <string name="upload" translatable="false">Télécharger</string>
+    <string name="empty_image_warning" translatable="false">Veuillez d\'abord entrer une image !</string>
+    <string name="add_story" translatable="false">Ajoutez votre histoire</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="normal_type" translatable="false">Cartes normales</string>
+    <string name="satellite_type" translatable="false">Cartes satellites</string>
+    <string name="terrain_type" translatable="false">Cartes de terrain</string>
+    <string name="hybrid_type" translatable="false">Cartes hybrides</string>
+    <string name="retry" translatable="false">Réessayer</string>
+    <string name="changeLanguage" translatable="false">Changer la langue</string>
+</resources>

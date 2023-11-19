@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Byy_AppStory</string>
+    <string name="signup" translatable="false">Sign Up</string>
+    <string name="login" translatable="false">Log In</string>
+    <string name="message_welcome_page" translatable="false">Welcome to Yourbynn Story. If you have any questions about the application, please contact the admin!</string>
+    <string name="title_welcome_page" translatable="false">Welcome!</string>
+    <string name="title_signup_page" translatable="false">Please Fill in Your Data</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="message_login_page" translatable="false">Please Enter Your Data</string>
+    <string name="title_login_page" translatable="false">Welcome!</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="message_main_page" translatable="false">Welcome!</string>
+    <string name="greeting" translatable="false">Hello %1$s,</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="name_required" translatable="false">Enter Name</string>
+    <string name="input_email" translatable="false">Enter Email</string>
+    <string name="invalid_email" translatable="false">Invalid Email</string>
+    <string name="input_pass" translatable="false">Enter Password</string>
+    <string name="pass_length" translatable="false">Password must be at least 8 characters</string>
+    <string name="not_valid_data" translatable="false">Invalid Data</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="title" translatable="false">Your Title</string>
+    <string name="descriptions" translatable="false">Your Descriptions</string>
+    <string name="detail" translatable="false">Stories Details</string>
+    <string name="camera" translatable="false">Camera</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="upload" translatable="false">Upload</string>
+    <string name="empty_image_warning" translatable="false">Please Enter an Image First!</string>
+    <string name="add_story" translatable="false">Add Your Story</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="normal_type" translatable="false">Normal Maps</string>
+    <string name="satellite_type" translatable="false">Satellite Maps</string>
+    <string name="terrain_type" translatable="false">Terrain Maps</string>
+    <string name="hybrid_type" translatable="false">Hybrid Maps</string>
+    <string name="retry" translatable="false">Retry</string>
+    <string name="changeLanguage" translatable="false">Change Language</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Byy_AppStory</string>
+    <string name="signup" translatable="false">Daftar</string>
+    <string name="login" translatable="false">Masuk</string>
+    <string name="message_welcome_page" translatable="false">Selamat Datang di Yourbynn Story. Jika ada Pertanyaan tentang aplikasi silahkan hubungi contact admin ya!</string>
+    <string name="title_welcome_page" translatable="false">Selamat Datang!</string>
+    <string name="title_signup_page" translatable="false">Silahkan Isi Data Dirimu</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="message_login_page" translatable="false">Silahkan Masukan Data Diri Anda</string>
+    <string name="title_login_page" translatable="false">Selamat Datang!</string>
+    <string name="name" translatable="false">Nama</string>
+    <string name="message_main_page" translatable="false">Selamat Datang!</string>
+    <string name="greeting" translatable="false">Halo %1$s,</string>
+    <string name="logout" translatable="false">Keluar</string>
+    <string name="name_required" translatable="false">Masukan Nama</string>
+    <string name="input_email" translatable="false">Masukan Email</string>
+    <string name="invalid_email" translatable="false">Email Tidak Valid</string>
+    <string name="input_pass" translatable="false">Masukan Password</string>
+    <string name="pass_length" translatable="false">Password Tidak boleh kurang dari 8</string>
+    <string name="not_valid_data" translatable="false">Data Tidak Valid</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="title" translatable="false">Your Title</string>
+    <string name="descriptions" translatable="false">Deskripsi Kamu</string>
+    <string name="detail" translatable="false">Stories Details</string>
+    <string name="camera" translatable="false">Kamera</string>
+    <string name="gallery" translatable="false">Galeri</string>
+    <string name="upload" translatable="false">Unggah</string>
+    <string name="empty_image_warning" translatable="false">Silahkan Masukan Gambar terlebih dahulu ya!</string>
+    <string name="add_story" translatable="false">Tambahkan Story kamu ya</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="normal_type" translatable="false">Peta Normal</string>
+    <string name="satellite_type" translatable="false">Peta Satelit</string>
+    <string name="terrain_type" translatable="false">Peta Terain</string>
+    <string name="hybrid_type" translatable="false">Peta Hibrida</string>
+    <string name="retry" translatable="false">Coba Lagi</string>
+    <string name="changeLanguage" translatable="false">Ganti Bahasa</string>
+</resources>
